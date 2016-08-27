@@ -1,6 +1,6 @@
 {
-  "name": "Flask-Dance with BitBucket",
-  "description": "Testing Flask-Dance's OAuth integration with BitBucket",
+  "name": "Flask-Dance with Bitbucket",
+  "description": "Testing Flask-Dance's OAuth integration with Bitbucket",
   "keywords": [
     "oauth"
   ],
@@ -12,11 +12,11 @@
       "generator": "secret"
     },
     "BITBUCKET_OAUTH_CLIENT_ID": {
-      "description": "The OAuth client ID for your application, assigned by BitBucket",
+      "description": "The OAuth client ID for your application, assigned by Bitbucket",
       "value": "client-id-goes-here"
     },
     "BITBUCKET_OAUTH_CLIENT_SECRET": {
-      "description": "The OAuth client secret for your application, assigned by BitBucket",
+      "description": "The OAuth client secret for your application, assigned by BitBbcket",
       "value": "client-secret-goes-here"
     }
   }
